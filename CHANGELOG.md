@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.4.0](https://github.com/tai-kun/surrealdb.js/compare/v1.3.0...v1.4.0) (2024-08-07)
+
+
+### Features
+
+* **surreal:** 実験的なクエリーユーティリティを追加 ([f31f7ff](https://github.com/tai-kun/surrealdb.js/commit/f31f7ffec349be8419415d3736f7a0d0ab974b8b))
+
+
+### Bug Fixes
+
+* **ci:** 不要なスクリプトを削除 ([83575cf](https://github.com/tai-kun/surrealdb.js/commit/83575cf602718ee765008d4e7e24e5b3b275ee4d))
+* **ci:** 修正! ([18545f6](https://github.com/tai-kun/surrealdb.js/commit/18545f62c6f9c75b8767cfc18364697341321644))
+* **surreal:** rpc に非同期デコードを実装し忘れた ([f4516e5](https://github.com/tai-kun/surrealdb.js/commit/f4516e548d89fc53f507f54c080507a13c0d09d4))
+
 ## [1.3.0](https://github.com/tai-kun/surrealdb.js/compare/v1.2.1...v1.3.0) (2024-08-07)
 
 
